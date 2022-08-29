@@ -1,0 +1,57 @@
+__build_info:
+  rime_version: 1.7.3
+  timestamps:
+    squirrel: 1613228858
+    squirrel.custom: 1660707879
+app_options:
+  com.apple.Terminal:
+    ascii_mode: true
+  com.apple.dt.Xcode:
+    ascii_mode: true
+  com.apple.finder:
+    ascii_mode: true
+  com.netease.nemu:
+    ascii_mode: true
+  com.runningwithcrayons.Alfred:
+    ascii_mode: true
+  com.tencent.xinWeChat:
+    ascii_mode: false
+  "com.termius-dmg.mac":
+    ascii_mode: true
+chord_duration: 0.1
+config_version: 0.37
+preset_color_schemes:
+  roseo_maple:
+    alpha: 1.0
+    author: "KyleBing <https://kylebing.cn>"
+    back_color: 0xe3f6fd
+    base_offset: 0
+    border_color: 0xd5e8ee
+    border_height: 5
+    border_width: 0
+    candidate_format: "%c %@ "
+    candidate_text_color: 0x837b65
+    comment_font_face: "PingFang SC"
+    comment_font_point: 16
+    comment_text_color: 0xd28b26
+    corner_radius: 5
+    font_point: 18
+    hilited_back_color: 0xd5e8ee
+    hilited_candidate_back_color: 0x98a12a
+    hilited_candidate_label_color: 0xd5e8ee
+    hilited_candidate_text_color: 0xd5e8ee
+    hilited_comment_text_color: 0xd5e8ee
+    hilited_corner_radius: 5
+    hilited_text_color: 0x969483
+    horizontal: true
+    inline_preedit: true
+    label_color: 0xa1a193
+    line_spacing: 5
+    name: "玫枫 / Roseo Maple"
+    preedit_back_color: 0x364572
+    spacing: 5
+    text_color: 0x8236d3
+show_notifications_when: appropriate
+style:
+  color_scheme: roseo_maple
+us_keyboard_layout: false
