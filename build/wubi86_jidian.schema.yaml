@@ -2,13 +2,13 @@ __build_info:
   rime_version: 1.7.3
   timestamps:
     default: 1613228859
-    default.custom: 1660638365
+    default.custom: 1662530309
     key_bindings: 1613228859
     key_bindings.custom: 0
     punctuation: 1613228859
     punctuation.custom: 0
     wubi86_jidian.custom: 0
-    wubi86_jidian.schema: 1660275576
+    wubi86_jidian.schema: 1662530292
 engine:
   filters:
     - "simplifier@tradition"
@@ -172,8 +172,6 @@ tradition:
   opencc_config: s2hk.json
   option_name: zh_trad
 translator:
-  comment_format:
-    - "xform/.+//"
   dictionary: wubi86_jidian
   enable_charset_filter: true
   enable_completion: true
